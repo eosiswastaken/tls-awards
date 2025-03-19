@@ -1,3 +1,13 @@
+# guidelines
+
+overlay 1 : font 32px (ou 48 ?)
+
+overlay 2 : 
+
+
+
+
+
 # steps
 
 0. create venv
