@@ -64,7 +64,7 @@ def update_viewers():
 def update_nominees():
     title = input("Titre ?")
     winner = input("Gagnant.e du titre ?")
-    gender = input("Genre de la phrase ? M/F/N") # mon code est WOKE
+    gender = input("Genre de la phrase (M/F/N) ?") # mon code est WOKE
     f = open("latest.txt","w",encoding="utf-8")
     if (gender == "F"):
         f.write(f"Derniere nominée : {winner} ({title})")
