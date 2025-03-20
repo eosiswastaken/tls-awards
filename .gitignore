@@ -1,2 +1,6 @@
 env/
 .env
+
+viewers.txt
+time.txt
+latest.txt
